@@ -4,7 +4,7 @@
     "title": "Safe Passage App",
     "tagline": "Helps solo travellers navigate unfamiliar places with more confidence and ease",
     "tags": ["User Research", "UI/UX Design"],
-    "thumbnail": "",
+    "heroImage": "/images/SafePassage-Hero.png",
     "problem": "",
     "solution": "",
     "reflection": ""
@@ -14,7 +14,7 @@
     "title": "Destination Explorer",
     "tagline": "A simple tool created to explore travel destinations around the world",
     "tags": ["Next.js", "React", "TypeScript", "Plain CSS Modules"],
-    "thumbnail": "",
+    "heroImage": "",
     "reflection": ""
   },
   {
@@ -22,7 +22,7 @@
     "title": "Numa AI Website Redesign",
     "tagline": "An improved website to showcase the Numa AI Operating System",
     "tags": ["UX/UI Design", "Website Copy"],
-    "thumbnail": "",
+    "heroImage": "",
     "problem": "",
     "solution": "",
     "reflection": ""
@@ -32,7 +32,7 @@
     "title": "MapMart App",
     "tagline": "A simple navigation tool to help improve the shopping experience",
     "tags": ["UX/UI Design"],
-    "thumbnail": "",
+    "heroImage": "/images/MapMart-Hero.png",
     "problem": "",
     "solution": "",
     "reflection": ""
