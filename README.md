@@ -4,7 +4,7 @@ A personal portfolio to showcase my UX design and front-end development work.
 
 ## Built with
 
-- React, built with Vite,
+- React, built with Vite
 - React Router (createBrowserRouter)
 - Tailwind CSS
 
