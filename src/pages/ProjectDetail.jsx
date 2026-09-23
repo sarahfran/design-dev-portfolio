@@ -22,9 +22,9 @@ export default function ProjectDetail() {
           </span>
         ))}
       </div>
-      <div>
+      {/* <div>
         <img src={project.heroImage} alt={project.title} />
-      </div> 
+      </div>  */}
     </div>
     </>
   );
